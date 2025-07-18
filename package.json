@@ -1,0 +1,21 @@
+{
+  "name": "jwt-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": ["jwt", "async", "token", "jsonwebtoken", "promise"],
+  "author": "Eoin Halligan",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
+    "typescript": "^5.8.3"
+  }
+}
