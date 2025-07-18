@@ -1,6 +1,6 @@
 {
-  "name": "jwt-async",
-  "version": "1.0.0",
+  "name": "jwt-simple-async",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
